@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Marcos(John)</h1>
-<h3 align="center">A passionate back-end developer from Brazil</h3>
+<h3 align="center">I am passionate about logic and solving problems</h3>
 
 - 🌱 I’m currently learning **python**
 
