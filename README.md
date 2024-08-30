@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79798116?s=400&u=a638b2628ad05372590af3d9124bf7630ad72751&v=4"  />
+<img align="right" height="150" src="https://slackmojis.com/emojis/3958-storm_trooper/download"  />
 
 ###
 
@@ -47,10 +47,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://slackmojis.com/emojis/3958-storm_trooper/download"  />
-</div>
+<img align="right" height="50" src="https://slackmojis.com/emojis/91597-loading/download"  />
 
 ###
