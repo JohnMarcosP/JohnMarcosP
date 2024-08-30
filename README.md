@@ -47,6 +47,6 @@
 
 ###
 
-<img align="right" height="50" src="https://slackmojis.com/emojis/91597-loading/download"  />
+<img align="left" height="50" src="https://slackmojis.com/emojis/91597-loading/download"  />
 
 ###
