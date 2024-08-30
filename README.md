@@ -39,8 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JohnMarcosP/JohnMarcosP/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h4 align="left">Sou um nerd, programador apaixonado por segurança cibernética, livros e HQs.<br>Minha maior dedicação é em manter minha evolução!</h4>
