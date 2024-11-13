@@ -1,5 +1,5 @@
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.ibb.co/C5rtHLd/jeni01.png">
+<img align="right" width="150px" style="margin-top:-20px" src="https://giphy.com/explore/vulcan-salute">
 </br>
 </br>
 </br>
@@ -26,7 +26,7 @@ Tenho 21 anos, sou residênte em Goiânia. Minha paixão está envolvida em prog
 Seja muito bem-vindo ao meu mundo!
 
 <p align="center">
-  <img src="https://giphy.com/explore/vulcan-salute" width="350">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJzZmN6M21reDJtMHhjZWVvOWIxaWtkNDg0d2Z2aDFvMG16eHZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUcreLvhQNwCFG/giphy.gif" width="350">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
