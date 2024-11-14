@@ -11,8 +11,6 @@
 
 
 
-</br>
-</br>
 
 ## Bem-vindo visitante!!
 Tenho 21 anos, sou residênte em Goiânia. Minha paixão está envolvida em programação, academia e qualquer tipo de conhecimento interessante, desde mecânica até mesmo sobre o espaço sideral!
