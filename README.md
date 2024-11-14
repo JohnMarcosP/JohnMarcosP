@@ -1,7 +1,4 @@
 
-<img align="right" width="150px" style="margin-top:-20px" src="https://giphy.com/explore/vulcan-salute">
-</br>
-</br>
 </br>
 </br>
 </br>
