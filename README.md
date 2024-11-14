@@ -44,19 +44,17 @@ Seja muito bem-vindo ao meu mundo!
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/thejohn_cs/).
 </br>
 
-<a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/jeniblo_dev" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/jeniffer-bittencourt" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://www.instagram.com/thejohn_cs/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-a26439285/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://github.com/JohnMarcosP" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 ##
 <p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/JohnMarcosP">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JohnMarcosP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
