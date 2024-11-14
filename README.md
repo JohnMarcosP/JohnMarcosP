@@ -7,12 +7,8 @@
 </br>
 </br>
 
-<div dsplay="inline-block">
-
  
  <h1 align="left">João Marcos Soares</h1>
-
-</div>
 
 
 
