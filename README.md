@@ -29,7 +29,7 @@ Seja muito bem-vindo ao meu mundo!
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte do time de analista de suporte da <a href="https://metaprime.com.br/">METAPRIME</a>;</p>
+ <p align="left">🤿 Faço parte do time de desenvolvimento da <a href="https://metaprime.com.br/">METAPRIME</a>;</p>
  <p align="left">💻 Estou cursando Engenharia da Computação;</p>
  <p align="left">📚 Tenho trabalhado e estudado com Java e SQL, também tenho interesse em cybersecurity;</p>
  <p align="left">☕🎮 Sou um programador um pouco átipico, por mais que eu goste de jogos e café, eu sou extremamente apaixonado por conhecimentos aleatórios e academia</p>
