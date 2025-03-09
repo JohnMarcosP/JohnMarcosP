@@ -1,4 +1,4 @@
-<h1 align="left">João Marcos Soares</h1>
+<h1 align="left">João Marcos</h1>
 
 ## 👋 Welcome to My Profile!
 
