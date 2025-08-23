@@ -22,7 +22,6 @@ Welcome to my world! 🚀
 
 ## 🏆 About Me
 
-- 🤿 Part of the development team at [Metaprime](https://metaprime.com.br/);
 - 💻 Studying **Computer Engineering**;
 - 📚 Working and studying **Java and SQL**, with a growing interest in **Cybersecurity**;
 - ☕🎮 Atypical programmer: although I enjoy games and coffee, I'm **passionate about random knowledge and fitness**.
