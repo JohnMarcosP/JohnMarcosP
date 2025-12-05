@@ -7,7 +7,7 @@
 <!-- INTRO -->
 ## 🌌 About Me
 
-Hey there! I'm **João**, 21, living in Goiânia, Brazil 🇧🇷.  
+Hey there! I'm **João**, from Brazil 🇧🇷.  
 A curious mind powered by **code, physics, fitness and random facts I’ll probably never need... but love anyway**.
 
 I enjoy exploring everything —  
