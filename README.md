@@ -1,21 +1,39 @@
 <!-- TITLE -->
-<h1 align="center">👨‍💻 João Marcos</h1>
-<p align="center"><strong>Developer • Geek Enthusiast • Fitness & Curiosity Addict</strong></p>
+<h1 align="center">🧠 João Marcos</h1>
+<p align="center">
+  <strong>Offensive Security • Backend Engineer • Automation Enthusiast</strong>
+</p>
 
 ---
 
 <!-- INTRO -->
-## 🌌 About Me
+## 🕶️ About Me
 
-Hey there! I'm **João**, from Brazil 🇧🇷.  
-A curious mind powered by **code, physics, fitness and random facts I’ll probably never need... but love anyway**.
+Hi, I’m **João Marcos**, from Brazil 🇧🇷  
+A **cybersecurity-focused developer** passionate about **breaking systems to understand how they work — and how to secure them**.
 
-I enjoy exploring everything —  
-from how CPUs handle instructions ⚙ to *why rockets don’t fall sideways* 🚀.
+My daily routine involves:
+- 🧩 Solving **Hack The Box** machines  
+- 🤖 Automating boring tasks with **Python**  
+- ⚙️ Writing **low-level & backend code** in **C / C++**
+- 🐧 Living inside **Linux terminals**
+
+I believe that **true knowledge comes from curiosity, persistence, and controlled chaos**.
 
 <p align="center">
-  <img src="https://i.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="300" alt="coding gif"/>
+  <img src="https://i.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300" alt="hacker gif"/>
 </p>
+
+---
+
+<!-- FOCUS -->
+## 🎯 Current Focus
+
+- 🛡️ Offensive Security & Ethical Hacking  
+- 🧠 Binary exploitation & system internals  
+- 🐍 Python automation for security & tooling  
+- ⚙️ Backend & performance-oriented development  
+- 🔍 Reverse engineering & Linux internals  
 
 ---
 
@@ -23,33 +41,37 @@ from how CPUs handle instructions ⚙ to *why rockets don’t fall sideways* �
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
 </p>
-
-
-### 🧠 Currently Learning  
-- Java & SQL (my daily fuel ☕)  
-- Cybersecurity (because breaking things *responsibly* is fun)  
 
 ---
 
-<!-- FUN FACT LIST -->
-## 🎯 Fun Facts (a.k.a. My Patch Notes)
+<!-- LEARNING -->
+## 📚 Currently Learning
 
-- 🏋️‍♂️ Buffing strength IRL while nerfing bugs in code  
-- 🔍 I read about space, engines, systems, psychology... basically patching the firmware of my brain  
-- 🎮 I do game, but not as much as people expect from a programmer  
-- ☕ My caffeine levels are within safe parameters (for now)
+- 🧨 Advanced exploitation techniques (HTB & labs)
+- 🧠 Memory management & binary analysis
+- 🔐 Web vulnerabilities & backend security
+- ⚙️ Performance-oriented C/C++ patterns
+
+---
+
+<!-- FUN FACTS -->
+## 🧩 Random Facts (Patch Notes)
+
+- 🧠 I like to understand **how things break before learning how to fix them**
+- 🐧 Linux feels more like home than any GUI
+- 🧪 Automation saves time
+- ☕ Caffeine is a dependency, not a choice
 
 ---
 
 <!-- CONTACT -->
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/thejohn_cs/">
@@ -57,9 +79,6 @@ from how CPUs handle instructions ⚙ to *why rockets don’t fall sideways* �
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-a26439285/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/JohnMarcosP">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -76,6 +95,5 @@ from how CPUs handle instructions ⚙ to *why rockets don’t fall sideways* �
 
 <!-- FOOTER -->
 <p align="center">
-  <i>“Curiosity is the most powerful upgrade the human mind can install.”</i>
+  <i>“If you know how a system fails, you know how to control it.”</i>
 </p>
-
