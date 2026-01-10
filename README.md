@@ -21,7 +21,7 @@ My daily routine involves:
 I believe that **true knowledge comes from curiosity, persistence, and controlled chaos**.
 
 <p align="center">
-  <img src="https://i.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300" alt="hacker gif"/>
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" width="300" alt="hacker gif"/>
 </p>
 
 ---
