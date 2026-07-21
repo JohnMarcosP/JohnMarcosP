@@ -33,8 +33,6 @@ I care about clean architecture, reliable systems and solid technical fundamenta
 
 ## Featured Projects
 
-> 🚧 Actively publishing the projects below — links added as each goes public.
-
 ### 🗂️ Task Tracker API
 REST API for task management built with **Spring Boot 4, PostgreSQL and Docker**.
 Layered architecture (Controller / Service / Repository), JSON handling with Jackson 3.
