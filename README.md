@@ -1,59 +1,72 @@
-# Hi, I’m João Marcos ☕
+# Hi, I'm João Marcos ☕
+
+**Backend Developer Jr** · Java & Spring Boot · Computer Science Student
+
+![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
 
 ## About Me
 
-Backend Developer Jr focused on Java and backend systems.
+Backend developer focused on **Java and Spring Boot**, building automation, data-processing and enterprise systems that run in production.
 
-Computer Science student working with real-world automation, data processing, and enterprise systems.
+Currently working at **Allrede Telecom** and interning at the **Brazilian Federal Justice (7th Federal Court)**, where I apply backend logic, system integration and process automation in real production environments.
 
-I currently work at Allrede Telecom and as an intern at the Federal Justice, where I apply backend logic and automation in production environments.
-
----
-
-## GitHub Stats
-
-<div align="left">
-
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=jmarcos-dev&show_icons=true&theme=radical" />
+I care about clean architecture, reliable systems and solid technical fundamentals — and I'm working toward international backend engineering opportunities.
 
 ---
 
-  <br/>
+## Tech Stack
 
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmarcos-dev&theme=radical)
-
-</div>
+**Languages:** Java · Python · SQL
+**Backend:** Spring Boot · REST APIs
+**Databases:** PostgreSQL · MySQL · SQL Server · Firebird
+**Tools & Infra:** Docker · Git · GitHub · Linux
+**Data & Automation:** ETL · Selenium · JasperReports · Power BI
 
 ---
 
-## Projects
+## Featured Projects
 
-Automation systems used in real workflows, including judicial process automation for the 7th Federal Court.
+> 🚧 Actively publishing the projects below — links added as each goes public.
 
-ETL and data handling processes used in enterprise and operational environments.
+### 🗂️ Task Tracker API
+REST API for task management built with **Spring Boot 4, PostgreSQL and Docker**.
+Layered architecture (Controller / Service / Repository), JSON handling with Jackson 3.
+➡️ [View repository](https://github.com/jmarcos-dev/REPO-NAME)
+---
 
-Backend-focused scripts and tools built with Java for productivity and system integration.
+## Open Source
+
+Early-stage contributor to the **[Hiero / Hedera](https://github.com/hiero-ledger/hiero-block-node)** ecosystem — contributing to block node services written in Java.
 
 ---
 
 ## Current Focus
 
-☕ Java backend development  
-⚙️ Automation and process optimization  
-🗄️ Data processing and ETL workflows  
-🏛️ Real-world systems in production environments  
-🔐 Secure and reliable software practices  
+☕ Java backend development with Spring Boot
+⚙️ Automation and process optimization
+🗄️ Data processing and ETL workflows
+🏛️ Reliable systems in production environments
+🧠 Strengthening technical fundamentals & system design
 
 ---
 
-## Open Source
+## Let's Connect
 
-Contributor at early stage in the Hedera / Hiero ecosystem.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
-## Everything Else
+## GitHub Stats
 
-🏋️ Gym training (tracked with Heavy app)  
-🧠 Always improving technical fundamentals  
-🚀 Focused on backend engineering career growth  
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jmarcos-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jmarcos-dev&theme=radical" alt="GitHub Streak" />
+</div>
