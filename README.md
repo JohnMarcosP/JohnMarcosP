@@ -38,7 +38,8 @@ I care about clean architecture, reliable systems and solid technical fundamenta
 REST API for task management built with **Spring Boot 4, PostgreSQL and Docker**.
 Layered architecture (Controller / Service / Repository), JSON handling with Jackson 3.
 
-➡️ [View repository](https://github.com/jmarcos-dev/TaskTrackerCLI)
+➡️[View repository](https://github.com/jmarcos-dev/TaskTrackerCLI)
+
 ---
 
 ## Open Source
