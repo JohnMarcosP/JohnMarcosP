@@ -17,7 +17,7 @@ Backend developer focused on **Java and Spring Boot**, building automation, data
 
 Currently working at **Allrede Telecom** and interning at the **Brazilian Federal Justice (7th Federal Court)**, where I apply backend logic, system integration and process automation in real production environments.
 
-I care about clean architecture, reliable systems and solid technical fundamentals — and I'm working toward international backend engineering opportunities.
+I care about clean architecture, reliable systems and solid technical fundamentals - and I'm working toward international backend engineering opportunities.
 
 ---
 
@@ -44,7 +44,7 @@ Layered architecture (Controller / Service / Repository), JSON handling with Jac
 
 ## Open Source
 
-Early-stage contributor to the **[Hiero / Hedera](https://github.com/hiero-ledger/hiero-block-node)** ecosystem — contributing to block node services written in Java.
+Early-stage contributor to the **[Hiero / Hedera](https://github.com/hiero-ledger/hiero-block-node)** ecosystem - contributing to block node services written in Java.
 
 ---
 
