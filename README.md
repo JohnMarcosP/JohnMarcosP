@@ -68,6 +68,5 @@ Early-stage contributor to the **[Hiero / Hedera](https://github.com/hiero-ledge
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jmarcos-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jmarcos-dev&theme=radical" alt="GitHub Streak" />
+  <img src="https://ghstats.dev/api/card?username=jmarcos-dev&theme=radical" alt="GitHub Stats Card" />
 </div>
