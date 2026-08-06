@@ -24,9 +24,13 @@ I care about clean architecture, reliable systems and solid technical fundamenta
 ## Tech Stack
 
 **Languages:** Java · Python · SQL
+
 **Backend:** Spring Boot · REST APIs
+
 **Databases:** PostgreSQL · MySQL · SQL Server · Firebird
+
 **Tools & Infra:** Docker · Git · GitHub · Linux
+
 **Data & Automation:** ETL · Selenium · JasperReports · Power BI
 
 ---
@@ -50,9 +54,13 @@ Early-stage contributor to the **[Hiero / Hedera](https://github.com/hiero-ledge
 ## Current Focus
 
 ☕ Java backend development with Spring Boot
+
 ⚙️ Automation and process optimization
+
 🗄️ Data processing and ETL workflows
+
 🏛️ Reliable systems in production environments
+
 🧠 Strengthening technical fundamentals & system design
 
 ---
