@@ -33,7 +33,7 @@ I care about clean architecture, reliable systems and solid technical fundamenta
 
 ## Featured Projects
 
-### 🗂️ Task Tracker API
+### 🗂️ Task Tracker
 
 Command-line task management application built with Java. Implements object-oriented programming principles, task CRUD operations, status management, and file-based persistence. 
 
