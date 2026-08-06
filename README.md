@@ -35,8 +35,7 @@ I care about clean architecture, reliable systems and solid technical fundamenta
 
 ### 🗂️ Task Tracker API
 
-REST API for task management built with **Spring Boot 4, PostgreSQL and Docker**.
-Layered architecture (Controller / Service / Repository), JSON handling with Jackson 3.
+Command-line task management application built with Java. Implements object-oriented programming principles, task CRUD operations, status management, and file-based persistence. 
 
 ➡️[View repository](https://github.com/jmarcos-dev/TaskTrackerCLI)
 
